@@ -1,0 +1,42 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Graphical conventions}{2}
+\contentsline {section}{\numberline {2}vector}{2}
+\contentsline {subsection}{\numberline {2.1}Anatomy of a vector}{2}
+\contentsline {subsection}{\numberline {2.2}Creating a vector}{3}
+\contentsline {subsection}{\numberline {2.3}Extraction}{3}
+\contentsline {subsection}{\numberline {2.4}Operator}{4}
+\contentsline {subsection}{\numberline {2.5}Vectorization}{4}
+\contentsline {subsection}{\numberline {2.6}Recycling}{4}
+\contentsline {subsection}{\numberline {2.7}Some numeric functions}{5}
+\contentsline {subsection}{\numberline {2.8}Some string functions}{5}
+\contentsline {subsection}{\numberline {2.9}Sorting}{6}
+\contentsline {subsection}{\numberline {2.10}Type conversion}{6}
+\contentsline {subsection}{\numberline {2.11}Index}{7}
+\contentsline {section}{\numberline {3}Operator precedence}{7}
+\contentsline {section}{\numberline {4}Matrix}{8}
+\contentsline {subsection}{\numberline {4.1}Creation}{8}
+\contentsline {subsection}{\numberline {4.2}Extraction with a matrix}{8}
+\contentsline {subsection}{\numberline {4.3}Properties}{10}
+\contentsline {subsection}{\numberline {4.4}Summing a matrix}{10}
+\contentsline {subsection}{\numberline {4.5}Changing}{10}
+\contentsline {section}{\numberline {5}list}{11}
+\contentsline {subsection}{\numberline {5.1}Creation, anatomy}{11}
+\contentsline {subsection}{\numberline {5.2}Basic functions}{12}
+\contentsline {subsection}{\numberline {5.3}Extraction}{12}
+\contentsline {subsection}{\numberline {5.4}List and vector}{13}
+\contentsline {subsection}{\numberline {5.5}List for expressing complex data structure}{13}
+\contentsline {section}{\numberline {6}Factor}{13}
+\contentsline {section}{\numberline {7}Data Frame}{14}
+\contentsline {subsection}{\numberline {7.1}Converting}{15}
+\contentsline {subsection}{\numberline {7.2}Extraction}{16}
+\contentsline {subsection}{\numberline {7.3}Subseting}{17}
+\contentsline {subsection}{\numberline {7.4}Merging}{17}
+\contentsline {section}{\numberline {8}Functions for contingency table}{18}
+\contentsline {subsection}{\numberline {8.1}Counting, contingency table}{18}
+\contentsline {subsection}{\numberline {8.2}Functions useful for contingency table}{18}
+\contentsline {section}{\numberline {9}Regexp}{19}
+\contentsline {subsection}{\numberline {9.1}Split strings: strplit()}{19}
+\contentsline {subsection}{\numberline {9.2}Extract sub strings: substr()}{19}
+\contentsline {subsection}{\numberline {9.3}Searching elements of a character vector with regexp: grep()}{20}
+\contentsline {subsection}{\numberline {9.4}Substitution: sub()}{20}
+\contentsline {subsection}{\numberline {9.5}Searching substring in elements of character vector: regular expression}{20}
